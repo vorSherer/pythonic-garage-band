@@ -6,11 +6,21 @@ from pythonic_garage_band.pythonic_garage_band import (
     Drummer,
 )
 
+# Roger's demo Front Row
+
+# https://realpython.com/instance-class-and-static-methods-demystified/
+
+# Socratica Classes video
+
 def test_Band_class_exists():
     assert Band
 
 
 # A Band instance should have a name attribute which is a string.
+def test_Band_name_returns():
+    expected = "Flying Penguins, members: ['Fred', 'Roy', 'Beevis']"
+    actual = Band("Flying Penguins", ['Fred', 'Roy', 'Beevis'])
+    assert actual == expected
 
 # A Band instance should have a members attribute which is a list of instances that inherit from Musician base (or super) class.
 
