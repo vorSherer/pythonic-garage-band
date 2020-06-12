@@ -56,4 +56,4 @@ Then select and open ```AboutMe.py``` -->
 Major props to Merry Cimakasky who helped with testing and Band code (q.v.).
 
 
-Submission PR: NN
+Submission PR: https://github.com/vorSherer/pythonic-garage-band/pull/1
