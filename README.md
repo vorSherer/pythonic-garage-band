@@ -5,11 +5,8 @@
 ---
 
 ## Description
-<!-- ***[Tell me about your application, should be about a paragraph]***
-This is a Python console application that will ask a user several questions about me, the
-developer. There are multiple question types ranging from inputting a number to True or False.
-At the end of the game the user receives their total score.
- -->
+
+This is a python application that instantiates bands from specific input, describing instances of Musicians as either Guitarists, Bassists, or Drummers, with unique returns for each.
 
 ---
 
@@ -21,13 +18,13 @@ $ git clone [repo clone url here]
 ```
 
 ### To run the program from VS Code:
-Select ```File``` -> ```Open``` -> ```Project/Solution```
+<!-- Select ```File``` -> ```Open``` -> ```Project/Solution```
 
 Next navigate to the location into which you cloned the Repository.
 
 Double click on the ```Lab01-About-Me``` directory.
 
-Then select and open ```AboutMe.py```
+Then select and open ```AboutMe.py``` -->
 
 ---
 
@@ -53,8 +50,10 @@ Then select and open ```AboutMe.py```
 1.1: *Added a Try/Catch/Finally for Question 2* - 5 Nov 2010  
  -->
 0.1.0: Poetry-created baseline project - 2020-06-10
+0.2.0: Basic code build-out, preliminary testing. - 2020-06-11
 
 ### Collaborations and Attributions
+Major props to Merry Cimakasky who helped with testing and Band code (q.v.).
 
 
 Submission PR: NN
